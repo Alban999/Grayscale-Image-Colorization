@@ -7,4 +7,4 @@ During this project, two different approaches have been investigated. The first 
 ## Setup
 
 1. Unzip the zip files in the Classification and Regression folders
-2. Dowloand the following [2 files](https://drive.google.com/drive/folders/1k8ycxtei7SgXs9m0z6XBNgZc8KARgpeR?usp=drive_link) in the Classification folder
+2. Download the following [2 files](https://drive.google.com/drive/folders/1k8ycxtei7SgXs9m0z6XBNgZc8KARgpeR?usp=drive_link) in the Classification folder
